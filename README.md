@@ -13,9 +13,9 @@ Your program should connect to the server using an IP address and a port from th
 
 ### Objectives
 **Your program will receive command line arguments in this order:**
-IP address
-port
-message for sending
+* IP address
+* port
+* message for sending
 
 **The algorithm is the following:**
 1. Create a new socket.
